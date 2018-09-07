@@ -1,0 +1,21 @@
+body {
+	background-image: url("https://wallpapercave.com/wp/X49EwD0.jpg");
+}
+
+.image-one {
+	border-style: solid; size: 2px; 
+	float: left; 
+	margin-right: 10px;
+}
+
+.image-two {
+	border-style: solid; size: 2px; 
+	float: right; 
+	margin-left: 10px;
+}
+
+.image-three {
+	border-style: solid; size: 2px; 
+	float: left; 
+	margin-right: 10px;
+}
